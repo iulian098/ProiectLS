@@ -1,0 +1,21 @@
+.btn_pad {
+    margin-right: 5px;
+    margin-left: 15px;
+}
+
+table,
+th,
+td {
+    border: 1px solid purple;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    text-align: center;
+}
+
+.center {
+    width: 15%;
+    margin: auto;
+}
